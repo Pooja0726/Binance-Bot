@@ -1,0 +1,72 @@
+2025-09-09 16:25:56,398 - INFO - API connection successful
+2025-09-09 16:25:56,399 - INFO - Trading bot initialized successfully
+2025-09-09 16:25:56,609 - INFO - Retrieved account balance
+2025-09-09 16:29:34,368 - INFO - Retrieved account balance
+2025-09-09 16:29:34,389 - INFO - Fetching exchange info for ...
+2025-09-09 16:29:35,057 - ERROR - Failed to get symbol info for : Symbol  not found
+2025-09-09 16:29:35,058 - ERROR - Error placing limit order: Symbol  not found
+2025-09-09 16:29:41,718 - INFO - Retrieved account balance
+2025-09-09 16:29:41,740 - INFO - Fetching exchange info for $...
+2025-09-09 16:29:42,402 - ERROR - Failed to get symbol info for $: Symbol $ not found
+2025-09-09 16:29:42,403 - ERROR - Error placing limit order: Symbol $ not found
+2025-09-09 16:29:49,231 - INFO - Retrieved account balance
+2025-09-09 16:29:49,258 - INFO - Fetching exchange info for $...
+2025-09-09 16:29:49,955 - ERROR - Failed to get symbol info for $: Symbol $ not found
+2025-09-09 16:29:49,956 - ERROR - Error placing limit order: Symbol $ not found
+2025-09-09 16:30:02,646 - INFO - Retrieved account balance
+2025-09-09 16:30:02,668 - INFO - Fetching exchange info for S...
+2025-09-09 16:30:03,329 - ERROR - Failed to get symbol info for S: Symbol S not found
+2025-09-09 16:30:03,330 - ERROR - Error placing limit order: Symbol S not found
+2025-09-09 16:31:57,712 - INFO - Retrieved account balance
+2025-09-09 16:31:57,721 - INFO - Fetching exchange info for BTCUSDT...
+2025-09-09 16:31:58,429 - INFO - Placing limit BUY order: 0.050 BTCUSDT at 0.08
+2025-09-09 16:31:58,938 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:12,509 - INFO - Retrieved account balance
+2025-09-09 16:32:12,518 - INFO - Placing limit BUY order: 0.050 BTCUSDT at 100.00
+2025-09-09 16:32:12,997 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:14,985 - INFO - Retrieved account balance
+2025-09-09 16:32:14,992 - INFO - Placing limit BUY order: 0.050 BTCUSDT at 100.00
+2025-09-09 16:32:15,476 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:22,705 - INFO - Retrieved account balance
+2025-09-09 16:32:22,711 - INFO - Placing limit BUY order: 0.050 BTCUSDT at 1000.00
+2025-09-09 16:32:23,213 - ERROR - Error placing limit order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-09-09 16:32:34,691 - INFO - Retrieved account balance
+2025-09-09 16:32:34,698 - INFO - Placing limit BUY order: 0.050 BTCUSDT at 99.00
+2025-09-09 16:32:35,197 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:43,429 - INFO - Retrieved account balance
+2025-09-09 16:32:43,435 - INFO - Placing limit BUY order: 10.000 BTCUSDT at 99.00
+2025-09-09 16:32:43,624 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:49,581 - INFO - Retrieved account balance
+2025-09-09 16:32:49,590 - INFO - Placing limit BUY order: 10.000 BTCUSDT at 100.00
+2025-09-09 16:32:50,087 - ERROR - Error placing limit order: APIError(code=-4013): Price less than min price.
+2025-09-09 16:32:57,495 - INFO - Retrieved account balance
+2025-09-09 16:32:57,503 - INFO - Placing market BUY order: 10.000 BTCUSDT
+2025-09-09 16:32:57,690 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-09-09 16:33:06,941 - INFO - Retrieved account balance
+2025-09-09 16:33:06,952 - INFO - Placing limit BUY order: 10.000 BTCUSDT at 0.00
+2025-09-09 16:33:07,432 - ERROR - Error placing limit order: APIError(code=-4001): Price less than 0.
+2025-09-09 16:33:14,181 - INFO - Retrieved account balance
+2025-09-09 16:33:14,189 - INFO - Placing limit BUY order: 10.000 BTCUSDT at 1000.00
+2025-09-09 16:33:14,674 - INFO - Limit order placed successfully: 5643695822
+2025-09-09 23:44:51,214 - INFO - API connection successful
+2025-09-09 23:44:51,217 - INFO - Trading bot initialized successfully
+2025-09-09 23:44:51,772 - INFO - Retrieved account balance
+2025-09-10 00:09:47,704 - INFO - API connection successful
+2025-09-10 00:09:47,705 - INFO - Trading bot initialized successfully
+2025-09-10 00:09:48,918 - INFO - Retrieved account balance
+2025-09-10 00:11:25,631 - INFO - Retrieved account balance
+2025-09-10 00:11:25,658 - INFO - Fetching exchange info for BTCUSDT...
+2025-09-10 00:11:26,085 - INFO - Placing market BUY order: 50.000 BTCUSDT
+2025-09-10 00:11:26,310 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-09-10 00:11:55,191 - INFO - Retrieved account balance
+2025-09-10 00:11:55,219 - INFO - Placing market BUY order: 0.500 BTCUSDT
+2025-09-10 00:11:55,440 - INFO - Market order placed successfully: 5644312003
+2025-09-10 00:13:12,019 - INFO - Retrieved account balance
+2025-09-10 00:13:12,541 - INFO - Retrieved 1 open orders
+2025-09-10 00:16:04,308 - INFO - API connection successful
+2025-09-10 00:16:04,310 - INFO - Trading bot initialized successfully
+2025-09-10 00:16:04,533 - INFO - Retrieved account balance
+2025-09-10 00:17:31,247 - INFO - Retrieved account balance
+2025-09-10 00:17:31,778 - INFO - Retrieved 1 open orders
+2025-09-10 00:23:31,109 - INFO - API connection successful
+2025-09-10 00:23:31,110 - INFO - Trading bot initialized successfully

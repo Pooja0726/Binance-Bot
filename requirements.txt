@@ -1,0 +1,12 @@
+# Core Binance and environment management
+python-binance==1.0.19
+python-dotenv==1.0.1
+requests==2.31.0
+
+# CLI specific libraries
+colorama==0.4.6
+tabulate==0.9.0
+
+# Streamlit Web App specific libraries
+streamlit==1.33.0
+pandas==2.2.1
