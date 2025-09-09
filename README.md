@@ -1,4 +1,6 @@
-Binance Futures Trading Bot📝 Project Description. 
+Binance Futures Trading Bot📝 
+
+Project Description. 
 
 This project is a trading bot designed to interact with the Binance Futures Testnet. It allows users to manage their testnet account and execute trades without risking real money. 
 The application provides two interfaces:
